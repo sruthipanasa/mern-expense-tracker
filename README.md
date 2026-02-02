@@ -18,4 +18,5 @@ A full-stack MERN application to track daily expenses.
 2. Install dependencies
 3. Create `.env` file
 4. Run backend & frontend
-5.
+
+
